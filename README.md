@@ -15,7 +15,7 @@ This lab demonstrates the implementation of **Virtual LANs (VLANs)** and **Inter
 ---
 
 ## 🗺️ Topology Diagram
-Basic_Topology_Diagram.png
+Screenshot 2026-08-22 032552.png
 
 ---
 
